@@ -1,1 +1,1 @@
-1e11ec88615d732a236b42c8873bc6c613eaf14ee57f9e6f42bf42c29769ccdc  CFG_SETUP.md
+1e11ec88615d732a236b42c8873bc6c613eaf14ee57f9e6f42bf42c29769ccdc  regularlabs-j3-security-maintenance-j3sec2-bundle.zip
