@@ -1,2 +1,3 @@
 1e11ec88615d732a236b42c8873bc6c613eaf14ee57f9e6f42bf42c29769ccdc  regularlabs-j3-security-maintenance-j3sec2-bundle.zip
 867c82b9e28d33df32f89cbce0e95e2ec286737cf3379f0bc0b5f935756a71a8  com_jdownloads_3.2.69.1-j3sec1_J3.zip
+3910ab5aa966b3d5a33c85a1086667ebf33348d0ec3989db68c6ebf6592b76a5  pkg_jevents_3.6.82.3-j3sec1_J3.zip
